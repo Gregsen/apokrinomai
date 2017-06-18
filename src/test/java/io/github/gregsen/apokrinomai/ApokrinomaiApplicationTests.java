@@ -1,4 +1,4 @@
-package io.github.gregsen;
+package io.github.gregsen.apokrinomai;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

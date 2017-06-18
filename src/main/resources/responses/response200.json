@@ -1,0 +1,20 @@
+{
+  "request_path":"my/path",
+  "request_method":"get",
+  "request_headers" : [
+    "x-test-header"
+],
+"user_agents":[
+  "some agent v2"
+],
+  "response":{
+    "response_code":"200",
+    "response_headers":[
+      {
+        "x-reponse": "x-some-value"
+      }],
+    "response_body":{
+      "hello":"world"
+    }
+  }
+}

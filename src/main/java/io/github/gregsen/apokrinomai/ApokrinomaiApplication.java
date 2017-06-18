@@ -1,4 +1,4 @@
-package io.github.gregsen;
+package io.github.gregsen.apokrinomai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
